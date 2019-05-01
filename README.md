@@ -1,4 +1,4 @@
-# candy-land
+# lemon-peak
 UC Berkeley | Design Innovation 23 Final Project
 ------------------------------------------------
 
