@@ -33,5 +33,6 @@ Instructions to download, edit, and run an isolated version of the demo (Process
 2. Set up all hardware components to Arduino Uno and connect to machine running processing and arduino files.
    - Instructions to setup hardware can be found [here](arduino/README.md)
 3. Opening up main finalProj.pde file should simultaneously open other necessary processing files. Only the one Arduino file needs to be opened. 
-4. For both Processing and Arduino files, make necessary changes to port imports (modify code) and syncing of ports with software to hardware.
+4. For both Processing and Arduino files, make necessary changes to port imports (modify code) and syncing of ports with  hardware to software.
+   - Critical step for correct code compilation and successful communication between both hardware components and software, and processing and arduino files.
 5. First **upload** Arduino file, then **upload and run** Processing file.
