@@ -36,3 +36,4 @@ Instructions to download, edit, and run an isolated version of the demo (Process
 4. For both Processing and Arduino files, make necessary changes to port imports (modify code) and syncing of ports with  hardware to software.
    - Critical step for correct code compilation and successful communication between both hardware components and software, and processing and arduino files.
 5. First **upload** Arduino file, then **upload and run** Processing file.
+Demo should begin playing, with further instructions in gameplay.
