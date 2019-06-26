@@ -9,7 +9,7 @@ Using Processing and Arduino, create an interactive show/demo for Spring'19 Demo
 
 ## How to play demo:
 In order for the demo to cohesively compile and run, both software and hardware components are required. 
-Instructions to download, edit, and run an isolated version of the demo (Processing: software component only), can be found here: [Isolated Lemon Peak Package](processing-only/INSTRUCTIONS.md). 
+Instructions to download, edit, and run an isolated version of the demo (Processing: software component only), can be found here: [Isolated Lemon Peak Package](processing-only/README.md). 
 
 ### Prerequisite
 0.1) The following software is required to run demo package properly:
