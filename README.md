@@ -16,7 +16,7 @@ Instructions to download, edit, and run an isolated version of the demo (Process
    - Processing (Version 3.5.3 (3 February 2019) compatible)
       - instructions for software download can be found [here](https://processing.org/download/)
    - Arduino (Version 1.8.8 compatible)
-      - instructions for software download can be found [here](https://www.arduino.cc/en/Main/Software).
+      - instructions for software download can be found [here](https://www.arduino.cc/en/Main/Software)
       
 0.2) The following hardware components are required to setup demo package properly:
    - 1 x Arduino Uno Rev3
@@ -31,6 +31,7 @@ Instructions to download, edit, and run an isolated version of the demo (Process
 1. Download repository or all files within subsequent directories within this repo. 
    - Modifying any of the file or directory names can result in a compilation error.
 2. Set up all hardware components to Arduino Uno and connect to machine running processing and arduino files.
+   - Instructions to setup hardware can be found [here](arduino/README.md)
 3. Opening up main finalProj.pde file should simultaneously open other necessary processing files. Only the one Arduino file needs to be opened. 
 4. For both Processing and Arduino files, make necessary changes to port imports (modify code) and syncing of ports with software to hardware.
 5. First **upload** Arduino file, then **upload and run** Processing file.
