@@ -1,1 +1,3 @@
-# Isolated portion of demo that only runs software component of project (Processing-only)
+# Isolated demo 
+
+Package of Lemon Peak that only includes Processing files for a software-only version of the demo.
