@@ -5,6 +5,13 @@ UC Berkeley | Design Innovation 23 Final Project
 Prompt:
 Using Processing and Arduino, create an interactive show/demo for Spring'19 Demo Showcase
 
+### How it was made:
+Entire software components made by Olivia Lee using object oriented programming in Processing (C++). 
+
+Video game maneuvered by player via keyboard key press or Adafruit Capacitive Touch Sensors (interactive hardware element), which was connected to software and display using an Arduino.
+
+Once a player successfully hits a moving target on the visual display, the player must then throw a piece of candy into the physical target. If successful, the weight of the candy is detected, a point is awarded, and then the physical target's cap closes to nudge the user to redirect his/her focus back to continue playing the video game.
+
 ---------
 
 ## How to play demo:
